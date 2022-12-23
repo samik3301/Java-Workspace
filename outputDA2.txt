@@ -1,0 +1,3 @@
+The word count of the given file is : 12
+The number of lines in the file are: 4
+The size of the file in bytes is: 58

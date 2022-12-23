@@ -1,0 +1,4 @@
+The byte count of the text file input is: 74
+The word count of the text file input is: 15
+The sentence count of the text file input is: 4
+The count of the words starting with J in input file is: 2
